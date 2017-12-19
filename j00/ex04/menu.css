@@ -1,0 +1,89 @@
+body
+{
+  background-image: url(https://trainsexposncf.files.wordpress.com/2015/05/trains-expo-evc3a9nements-sncf-rame-mistral-6-hd.jpg);
+  background-size: 100% 100%;
+}
+
+ul
+{
+  padding : 0;
+  margin : 0;
+  list-style : none;
+  line-height : 21px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+li
+{
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+
+li:hover ul.menu1, li:hover ul.menu2, li:hover ul.menu3
+{
+  display: block;
+}
+
+ul ul
+{
+	position: relative;
+	display: none;
+  padding-top: 30px;
+}
+
+#tri
+{
+  margin-left:70px;
+}
+
+#top
+{
+  padding-top: 50px;
+  padding-left: 300px;
+}
+
+.all
+{
+    height :2000px;
+    width: 1500px;
+    padding-right: 200px;
+}
+
+.div1
+{
+  float: left;
+  border-right: 1px solid #fff;
+  height : 470px;
+	width : 250px;
+  margin-top: 150px;
+  margin-left: 26%;
+  background-color: rgba(206,206,206,0.3);
+  border-radius: 15px;
+}
+
+.div2
+{
+  float: left;
+  border-right: 1px solid #fff;
+  margin-top: 150px;
+  height : 470px;
+  width : 250px;
+  background-color: rgba(206,206,206,0.3);
+  border-radius: 15px;
+  margin-left: 5%;
+}
+
+.div3
+{
+  float: left;
+  border-right: 1px solid #fff;
+  margin-top: 150px;
+  height : 470px;
+  width : 250px;
+  background-color: rgba(206,206,206,0.3);
+  border-radius: 15px;
+  margin-left: 5%;
+}

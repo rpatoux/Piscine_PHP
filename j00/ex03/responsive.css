@@ -1,0 +1,39 @@
+body
+{
+  background-image: url(http://s1.1zoom.me/big0/411/Sky_Night_436146.jpg);
+  background-size: 100% 100%;
+}
+table
+{
+  margin-top : 20px;
+  margin-left: 10%
+  margin-right : 10%;
+  width : 85%;
+  height: 85%;
+  border-collapse : separate;
+}
+div
+{
+	font-size : 0.9vw;
+}
+td
+{
+	width : 3%;
+	height : 3%;
+	border : 2px transparancy;
+}
+.full
+{
+	border : 2px solid black;
+	opacity: 0.9;
+}
+h1
+{
+	font-size : 2vw;
+	text-align: center;
+  color : white;
+}
+b
+{
+	font-size: 1.5vw;
+}
